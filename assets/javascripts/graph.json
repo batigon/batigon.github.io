@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home_Page",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "Bao Blogger",
+      "symbolSize": 0,
+      "value": "/Bao%20Blogger/"
+    },
+    {
+      "id": "2",
+      "name": "DASHBOARD",
+      "symbolSize": 1,
+      "value": "/DASHBOARD/"
+    },
+    {
+      "id": "3",
+      "name": "16 L TEST4",
+      "symbolSize": 0,
+      "value": "/CAM16/16-L-TEST4/"
+    },
+    {
+      "id": "4",
+      "name": "16 R TEST4 1",
+      "symbolSize": 1,
+      "value": "/CAM16/16-R-TEST4-1/"
+    },
+    {
+      "id": "5",
+      "name": "01",
+      "symbolSize": 0,
+      "value": "/cambrige%20vocabulary/01/"
+    }
+  ],
+  "links": [
+    {
+      "source": "2",
+      "target": "4"
+    }
+  ]
+}
